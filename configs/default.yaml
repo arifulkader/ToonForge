@@ -1,0 +1,29 @@
+# ToonForge Configuration
+# Override via CLI flags or edit this file directly.
+
+# Face stylization
+style: cartoon1-d
+style_degree: 0.5
+padding: [200, 200, 200, 200]
+
+# Performance
+preset: balanced         # fast | balanced | quality
+max_input_res: 640       # cap longest side of input
+face_min_size: 60        # minimum face detection size (pixels)
+
+# Display (webcam/Colab mode)
+display:
+  fast:
+    width: 300
+    jpeg_quality: 75
+  balanced:
+    width: 340
+    jpeg_quality: 82
+  quality:
+    width: 380
+    jpeg_quality: 88
+
+# Paths (relative to project root)
+paths:
+  animegan2_repo: ./third_party/animegan2
+  vtoonify_repo: ./third_party/vtoonify
