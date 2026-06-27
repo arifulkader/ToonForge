@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arifulkader/ToonForge/notebooks/ToonForge_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arifulkader/ToonForge/blob/main/notebooks/ToonForge_Demo.ipynb)
 
 > **A hybrid multi-model pipeline that blends full-scene anime stylization with high-fidelity face toonification in real-time — from webcam, video, or image input.**
 
