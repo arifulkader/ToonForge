@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/toonforge-realtime-cartoon-stylization/blob/main/notebooks/ToonForge_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arifulkader/ToonForge/notebooks/ToonForge_Demo.ipynb)
 
 > **A hybrid multi-model pipeline that blends full-scene anime stylization with high-fidelity face toonification in real-time — from webcam, video, or image input.**
 
@@ -54,8 +54,8 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/toonforge-realtime-cartoon-stylization.git
-cd toonforge-realtime-cartoon-stylization
+git clone https://github.com/arifulkader/ToonForge.git
+cd ToonForge
 pip install -r requirements.txt
 ```
 
@@ -261,9 +261,9 @@ If you use ToonForge in your work, please consider citing:
 ```bibtex
 @software{toonforge2025,
   title={ToonForge: Real-Time Multi-Model Cartoon Stylization},
-  author={YOUR_NAME},
+  author={arifulkader},
   year={2025},
-  url={https://github.com/YOUR_USERNAME/toonforge-realtime-cartoon-stylization}
+  url={https://github.com/arifulkader/ToonForge}
 }
 ```
 
@@ -271,5 +271,5 @@ If you use ToonForge in your work, please consider citing:
 
 <p align="center">
   <b>⭐ Star this repo if you find it useful!</b><br>
-  Questions? Open an <a href="https://github.com/YOUR_USERNAME/toonforge-realtime-cartoon-stylization/issues">issue</a> or start a <a href="https://github.com/YOUR_USERNAME/toonforge-realtime-cartoon-stylization/discussions">discussion</a>.
+  Questions? Open an <a href="https://github.com/arifulkader/ToonForge/issues">issue</a> or start a <a href="https://github.com/arifulkader/ToonForge/discussions">discussion</a>.
 </p>
