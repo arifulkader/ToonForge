@@ -41,11 +41,11 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
 <td align="center"><b>Hybrid</b></td>
 </tr>
 <tr>
-<td><img src="assets/samples/cartoon_1.png" width="30%"/></td>
-<td><img src="assets/samples/cartoon_2.png" width="30%"/></td>
-<td><img src="assets/samples/cartoon_3.png" width="30%"/></td>
-<td><img src="assets/samples/cartoon_4.png" width="30%"/></td>
-<td><img src="assets/samples/cartoon_5.png" width="30%"/></td>
+<td><img src="assets/samples/cartoon_1.png" width="70%"/></td>
+<td><img src="assets/samples/cartoon_2.png" width="70%"/></td>
+<td><img src="assets/samples/cartoon_3.png" width="70%"/></td>
+<td><img src="assets/samples/cartoon_4.png" width="70%"/></td>
+<td><img src="assets/samples/cartoon_5.png" width="70%"/></td>
 </tr>
 </table>
 
