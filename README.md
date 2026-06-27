@@ -49,20 +49,14 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
 </tr>
 </table>
 
-
-
-<div style="width: 100%; overflow: visible;">
-  <table style="width: 120%; margin-left: -10%;">
-    <tr>
-      <td width="20%"><img src="assets/samples/cartoon_1.png" style="width:100%;"/></td>
-      <td width="20%"><img src="assets/samples/cartoon_2.png" style="width:100%;"/></td>
-      <td width="20%"><img src="assets/samples/cartoon_3.png" style="width:100%;"/></td>
-      <td width="20%"><img src="assets/samples/cartoon_4.png" style="width:100%;"/></td>
-      <td width="20%"><img src="assets/samples/cartoon_5.png" style="width:100%;"/></td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+  <b>Hybrid Results</b><br><br>
+  <img src="assets/samples/cartoon_1.png" width="80%"/><br><br>
+  <img src="assets/samples/cartoon_2.png" width="80%"/><br><br>
+  <img src="assets/samples/cartoon_3.png" width="80%"/><br><br>
+  <img src="assets/samples/cartoon_4.png" width="80%"/><br><br>
+  <img src="assets/samples/cartoon_5.png" width="80%"/>
+</p>
 ---
 
 ## 🚀 Quick Start
