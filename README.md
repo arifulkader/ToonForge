@@ -38,7 +38,6 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
   <img src="assets/samples/cartoon_2.png" width="80%"/><br><br>
   <img src="assets/samples/cartoon_3.png" width="80%"/><br><br>
   <img src="assets/samples/cartoon_4.png" width="80%"/><br><br>
-  <img src="assets/samples/cartoon_5.png" width="80%"/>
 </p>
 
 
