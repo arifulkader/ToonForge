@@ -32,23 +32,6 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
 
 ## 🖼️ Sample Results
 
-<table>
-<tr>
-<td align="center"><b>Hybrid</b></td>
-<td align="center"><b>Hybrid</b></td>
-<td align="center"><b>Hybrid</b></td>
-<td align="center"><b>Hybrid</b></td>
-<td align="center"><b>Hybrid</b></td>
-</tr>
-<tr>
-<td><img src="assets/samples/cartoon_1.png" style="width:100%; max-width:1200px;"/></td>
-<td><img src="assets/samples/cartoon_2.png" style="width:100%; max-width:1200px;"/></td>
-<td><img src="assets/samples/cartoon_3.png" style="width:100%; max-width:1200px;"/></td>
-<td><img src="assets/samples/cartoon_4.png" style="width:100%; max-width:1200px;"/></td>
-<td><img src="assets/samples/cartoon_5.png" style="width:100%; max-width:1200px;"/></td>
-</tr>
-</table>
-
 <p align="center">
   <b>Hybrid Results</b><br><br>
   <img src="assets/samples/cartoon_1.png" width="80%"/><br><br>
@@ -57,6 +40,8 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
   <img src="assets/samples/cartoon_4.png" width="80%"/><br><br>
   <img src="assets/samples/cartoon_5.png" width="80%"/>
 </p>
+
+
 ---
 
 ## 🚀 Quick Start
