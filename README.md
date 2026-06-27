@@ -34,18 +34,18 @@ The pipeline **detects all faces**, renders the scene through SceneNet, then com
 
 <table>
 <tr>
-<td align="center"><b>Original</b></td>
-<td align="center"><b>SceneNet Only</b></td>
-<td align="center"><b>Hybrid (cartoon1)</b></td>
-<td align="center"><b>Hybrid (arcane)</b></td>
-<td align="center"><b>Hybrid (pixar)</b></td>
+<td align="center"><b>Hybrid</b></td>
+<td align="center"><b>Hybrid</b></td>
+<td align="center"><b>Hybrid</b></td>
+<td align="center"><b>Hybrid</b></td>
+<td align="center"><b>Hybrid</b></td>
 </tr>
 <tr>
-<td><img src="assets/samples/cartoon_1.png" width="150"/></td>
-<td><img src="assets/samples/cartoon_2.png" width="150"/></td>
-<td><img src="assets/samples/cartoon_3.png" width="150"/></td>
-<td><img src="assets/samples/cartoon_4.png" width="150"/></td>
-<td><img src="assets/samples/cartoon_5.png" width="150"/></td>
+<td><img src="assets/samples/cartoon_1.png" width="250"/></td>
+<td><img src="assets/samples/cartoon_2.png" width="250"/></td>
+<td><img src="assets/samples/cartoon_3.png" width="250"/></td>
+<td><img src="assets/samples/cartoon_4.png" width="250"/></td>
+<td><img src="assets/samples/cartoon_5.png" width="250"/></td>
 </tr>
 </table>
 
